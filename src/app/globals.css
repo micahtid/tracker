@@ -46,7 +46,7 @@ input:where([type="button"], [type="reset"], [type="submit"]) {
 
 ::placeholder { opacity: 1; }
 
-/* Internship Applications Tracker.
+/* Tracker.
 
    The design is the split view, and `docs/split-view.html` is the prototype it
    was drawn from and stays the visual reference. Read that file's own header

@@ -13,7 +13,7 @@ import { RotateCcw, TriangleAlert } from "lucide-react";
  */
 export default function Error({ error, reset }: { error: Error; reset: () => void }) {
   return (
-    <main className="app" role="application" aria-label="Internship Applications Tracker">
+    <main className="app" role="application" aria-label="Tracker">
       <div className="blank-page">
         <div className="blank">
           <span className="blank__icon">

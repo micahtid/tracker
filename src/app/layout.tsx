@@ -11,7 +11,7 @@ const figtree = Figtree({
 });
 
 export const metadata: Metadata = {
-  title: "Internship Applications Tracker",
+  title: "Tracker",
   description: "Your applications, read out of your own inbox.",
 };
 

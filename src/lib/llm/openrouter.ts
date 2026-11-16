@@ -21,7 +21,7 @@ const BASE = "https://openrouter.ai/api/v1";
 
 const HEADERS = {
   "HTTP-Referer": "http://127.0.0.1:3939",
-  "X-Title": "Internship Applications Tracker",
+  "X-Title": "Tracker",
 };
 
 /**

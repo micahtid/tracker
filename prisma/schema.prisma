@@ -1,4 +1,4 @@
-// Internship Applications Tracker.
+// Tracker.
 // SQLite has no enum type, so every enum in the PRD is a String here and the
 // allowed values are named in a comment above the field.
 

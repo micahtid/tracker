@@ -421,7 +421,7 @@ export default function Tracker() {
   };
 
   return (
-    <main className="app" role="application" aria-label="Internship Applications Tracker">
+    <main className="app" role="application" aria-label="Tracker">
       {/* The dragged width of the list pane rides on the shell as a custom
           property, which is the same property the stylesheet's own breakpoints
           set, so a drag simply overrides the width the screen started with. */}

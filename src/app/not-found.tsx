@@ -7,7 +7,7 @@ import { Compass } from "lucide-react";
  */
 export default function NotFound() {
   return (
-    <main className="app" role="application" aria-label="Internship Applications Tracker">
+    <main className="app" role="application" aria-label="Tracker">
       <div className="blank-page">
         <div className="blank">
           <span className="blank__icon">
